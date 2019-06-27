@@ -33,6 +33,11 @@
             
             <a class="collapse-item" href="<?echo base_url('profil/read/1'); ?>">Profil RS</a>
             <a class="collapse-item" href="<?echo base_url('m_pasien'); ?>">Master Pasien</a>
+			<a class="collapse-item" href="<?echo base_url('m_dokter'); ?>">Master Dokter</a>
+			<a class="collapse-item" href="<?echo base_url('m_carabayar'); ?>">Master Carabayar</a>
+			<a class="collapse-item" href="<?echo base_url('m_kecamatan'); ?>">Master Kecamatan</a>
+			<a class="collapse-item" href="<?echo base_url('m_kelurahan'); ?>">Master Kelurahan</a>
+			<a class="collapse-item" href="<?echo base_url('m_kota'); ?>">Master Kota</a>
           </div>
         </div>
       </li>
