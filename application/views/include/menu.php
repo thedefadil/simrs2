@@ -31,7 +31,7 @@
         <div id="collapseone" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="<?echo base_url('profil'); ?>">Profil</a>
+            <a class="collapse-item" href="<?echo base_url('profil/read/1'); ?>">Profil RS</a>
             <a class="collapse-item" href="<?echo base_url('m_pasien'); ?>">Master Pasien</a>
           </div>
         </div>
